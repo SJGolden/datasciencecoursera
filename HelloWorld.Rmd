@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "SJG"
+date: "April 20, 2020"
+output: pdf_document
+---
+
+##This is a markdown file
+
+I am making this markdown file as part of a Coursera course.
