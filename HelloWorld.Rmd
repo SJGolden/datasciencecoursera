@@ -8,3 +8,5 @@ output: pdf_document
 ##This is a markdown file
 
 I am making this markdown file as part of a Coursera course.
+
+And then I added this line because it didn't seem like the initial commit worked.
